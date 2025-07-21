@@ -6,7 +6,9 @@
 <h1 align="center">
   🛒 CleverMart
   <br>
+
   <sub><em>AI-powered Smart-Shop Platform</em></sub>
+
   <img src="sources/CleverMart_500x250.png" />
 </h1>
 
