@@ -98,8 +98,6 @@ Push and open a Pull Request
 
 We follow Conventional Commits and run solution checker before PR approval.
 
-📜 License
-This project is released under the MIT License – see LICENSE.
 
 ❤️ Acknowledgements
 Microsoft Power Platform community
