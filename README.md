@@ -200,7 +200,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ### 🤖 **Screen 8 – AI General Manager "Fahim Afendy"**
 
 
-<img src="Screenshots/financial report.png" />
+<img src="Screenshots/fahim_afendy.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/🧠-AI%20Intelligence-00BCD4?style=for-the-badge" />
