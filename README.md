@@ -55,7 +55,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 🔐 **Screen 1 – Welcome & Authentication**
-**Screenshot Source:** `Screenshots/login interface.png`
+<img src="Screenshots/login interface.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/🔑-Login%20Portal-4CAF50?style=for-the-badge" />
