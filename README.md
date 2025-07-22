@@ -248,7 +248,11 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 **👤 User:** *"Fahim, what products need immediate restocking?"*
 
-**🤖 Fahim Afendy:** *"I've identified 12 products requiring immediate attention! Your top priorities are: Organic Bananas (2 units left), Fresh Milk 1L (5 units), and Whole Wheat Bread (3 units). Shall I help you contact the vendors or generate purchase orders?"*
+**🤖 Fahim Afendy:** *"The products that need immediate restocking are:
+
+Labneh 400g – Domty ​1​
+Local Tomatoes 1 kg – Local Farm ​2​
+Pita Bread Pack of 5 – HomeBaked"*
 
 </div>
 
@@ -256,7 +260,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 **👤 User:** *"Which vendor offers the best prices for beverages?"*
 
-**🤖 Fahim Afendy:** *"Based on current data, 'Fresh Valley Distributors' offers the most competitive beverage prices with an average 15% cost advantage. They supply 23 beverage products with excellent delivery ratings. Would you like me to show their complete catalog?"*
+**🤖 Fahim Afendy:** *"Based on the available information, Fayrouz offers the best price for beverages with their Sparkling Water 500 ml priced at $1"*
 
 </div>
 
@@ -285,7 +289,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 </div>
 
-**🎤 Voice Integration:**
+**🎤 Voice Integration (upcoming features)**
 - 🗣️ **Speech Recognition**: Natural voice commands in multiple languages
 - 🔊 **Text-to-Speech**: Fahim responds with natural voice synthesis  
 - 📞 **Hands-free Operations**: Perfect for busy shop environments
