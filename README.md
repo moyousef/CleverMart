@@ -9,7 +9,7 @@
 
   <sub><em>AI-powered Smart-Shop Platform</em></sub>
 
-  <img src="sources/CleverMart_500x250.png" />
+  <img src="Screenshots/CleverMart_500x250.png" />
 </h1>
 
 <p align="center">
