@@ -55,6 +55,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 🔐 **Screen 1 – Welcome & Authentication**
+
 <img src="Screenshots/login interface.png" />
 
 <div align="left">
@@ -72,7 +73,8 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 📊 **Screen 2 – Command Center Dashboard**
-**Screenshot Source:** `demo-screenshots/02-dashboard-overview.png`
+
+<img src="Screenshots/dashboard.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/📈-Real%20Time%20Analytics-2196F3?style=for-the-badge" />
@@ -91,7 +93,8 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### ➕ **Screen 3 – Smart Product Management**
-**Screenshot Source:** `demo-screenshots/03-add-product.png`
+
+<img src="Screenshots/add new product.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/🏷️-Product%20Catalog-FF5722?style=for-the-badge" />
@@ -108,7 +111,8 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 📈 **Screen 4 – Daily Performance Insights**
-**Screenshot Source:** `demo-screenshots/04-daily-report.png`
+
+<img src="Screenshots/daily report.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/📊-Business%20Intelligence-607D8B?style=for-the-badge" />
@@ -127,7 +131,8 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 👥 **Screen 5 – Customer Intelligence Hub**
-**Screenshot Source:** `demo-screenshots/05-customer-profiles.png`
+
+<img src="Screenshots/daily report.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/👤-Customer%20360-9C27B0?style=for-the-badge" />
