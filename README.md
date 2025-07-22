@@ -56,6 +56,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 ### 🔐 **Screen 1 – Welcome & Authentication**
 
+
 <img src="Screenshots/login interface.png" />
 
 <div align="left">
@@ -73,6 +74,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 📊 **Screen 2 – Command Center Dashboard**
+
 
 <img src="Screenshots/dashboard.png" />
 
@@ -94,6 +96,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 ### ➕ **Screen 3 – Smart Product Management**
 
+
 <img src="Screenshots/add new product.png" />
 
 <div align="left">
@@ -111,6 +114,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 📈 **Screen 4 – Daily Performance Insights**
+
 
 <img src="Screenshots/daily report.png" />
 
@@ -132,7 +136,8 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 ### 👥 **Screen 5 – Customer Intelligence Hub**
 
-<img src="Screenshots/daily report.png" />
+
+<img src="Screenshots/customer info.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/👤-Customer%20360-9C27B0?style=for-the-badge" />
@@ -151,7 +156,9 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 🏷️ **Screen 6 – Intelligent Inventory Control**
-**Screenshot Source:** `demo-screenshots/06-product-insights.png`
+
+
+<img src="Screenshots/product stock report.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/📦-Smart%20Inventory-795548?style=for-the-badge" />
@@ -170,7 +177,9 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 ---
 
 ### 💰 **Screen 7 – Financial Command Center**
-**Screenshot Source:** `demo-screenshots/07-finance-overview.png`
+
+
+<img src="Screenshots/financial report.png" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/💰-Revenue%20Analytics-4CAF50?style=for-the-badge" />
@@ -186,6 +195,106 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 - 📊 **Order Statistics**: Volume and conversion metrics
 - 📈 **Growth Trends**: Performance trajectory analysis
 
+---
+
+### 🤖 **Screen 8 – AI General Manager "Fahim Afendy"**
+
+
+<img src="Screenshots/financial report.png" />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/🧠-AI%20Intelligence-00BCD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💬-Natural%20Language-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯-Smart%20Insights-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Real%20Time%20Data-4CAF50?style=for-the-badge" />
+</div>
+
+> *"Meet Fahim Afendy, your AI-powered General Manager! This intelligent assistant has complete access to your shop's ecosystem and acts as your virtual business advisor, providing instant insights about products, vendors, pricing, and inventory management."*
+
+**🎭 Fahim Afendy's Capabilities:**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏪-Shop%20Intelligence-1976D2?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊-Data%20Analysis-388E3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔍-Smart%20Search-F57C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/📈-Business%20Insights-7B1FA2?style=flat-square" />
+</div>
+
+**🗣️ What Fahim Can Tell You:**
+
+- 🏷️ **Product Information**: *"What's the current price of organic milk?"*
+  - Real-time product details, pricing, and descriptions
+  - Product categories and subcategory breakdowns
+  - Available variants and specifications
+
+- 📦 **Inventory Intelligence**: *"Which products are running low on stock?"*  
+  - Current stock levels across all products
+  - Critical low-stock alerts and recommendations
+  - Optimal reorder quantities and timing
+
+- 🏢 **Vendor Management**: *"Show me all dairy product vendors"*
+  - Complete vendor directory with contact information  
+  - Vendor performance metrics and ratings
+  - Category-specific supplier recommendations
+
+- 💰 **Pricing Analytics**: *"What's our highest margin product category?"*
+  - Profit margin analysis by product and category
+  - Price comparison with market trends
+  - Revenue optimization suggestions
+
+**🎨 AI Conversation Examples:**
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 10px 0;">
+
+**👤 User:** *"Fahim, what products need immediate restocking?"*
+
+**🤖 Fahim Afendy:** *"I've identified 12 products requiring immediate attention! Your top priorities are: Organic Bananas (2 units left), Fresh Milk 1L (5 units), and Whole Wheat Bread (3 units). Shall I help you contact the vendors or generate purchase orders?"*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; margin: 10px 0;">
+
+**👤 User:** *"Which vendor offers the best prices for beverages?"*
+
+**🤖 Fahim Afendy:** *"Based on current data, 'Fresh Valley Distributors' offers the most competitive beverage prices with an average 15% cost advantage. They supply 23 beverage products with excellent delivery ratings. Would you like me to show their complete catalog?"*
+
+</div>
+
+**🔥 Advanced Features:**
+
+| Feature | Description | Benefit |
+|---------|-------------|---------|
+| 🧠 **Contextual Memory** | Remembers conversation history | Seamless multi-turn conversations |
+| 🔄 **Real-time Sync** | Live data integration | Always up-to-date information |
+| 📱 **Multi-channel** | Chat, voice, and mobile support | Accessible anywhere, anytime |
+| 🎯 **Predictive Analytics** | AI-powered forecasting | Proactive business insights |
+| 🌍 **Multi-language** | Supports multiple languages | Global accessibility |
+
+**🚀 Smart Query Examples:**
+
+<div align="center">
+
+```
+💡 "What's our total revenue this month?"
+💡 "List all products from vendor 'ABC Supplies'"  
+💡 "Which category generates the highest profit?"
+💡 "Show me products expiring in the next 7 days"
+💡 "What's the average order value today?"
+💡 "Which customer buys the most dairy products?"
+```
+
+</div>
+
+**🎤 Voice Integration:**
+- 🗣️ **Speech Recognition**: Natural voice commands in multiple languages
+- 🔊 **Text-to-Speech**: Fahim responds with natural voice synthesis  
+- 📞 **Hands-free Operations**: Perfect for busy shop environments
+
+**🔐 Security & Privacy:**
+- 🛡️ Role-based access control
+- 🔒 Encrypted data transmission  
+- 📋 Audit trail for all queries
+- 🎭 Customer data privacy protection
 ---
 
 <div align="center">
