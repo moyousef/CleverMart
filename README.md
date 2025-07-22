@@ -13,9 +13,9 @@
 </h1>
 
 <p align="center">
-  <a href="[https://make.powerapps.com](https://apps.powerapps.com/play/e/5032ff4d-3526-eec9-9323-ffdc94589e4f/a/109defef-1f4f-4870-8634-701203318ea8?tenantId=23e9f3d3-e0d0-4d38-b8cf-44b82c7fabdb&hint=8b472384-d5c0-4702-ba51-4081179c3f12&sourcetime=1753201026825&source=portal#)">Power Apps</a> •
+  <a href="https://make.powerapps.com">Power Apps</a> •
   <a href="https://powerautomate.microsoft.com">Power Automate</a> •
-  <a href="[https://copilotstudio.microsoft.com](https://web.powerva.microsoft.com/environments/5032ff4d-3526-eec9-9323-ffdc94589e4f/bots/58a592be-f366-f011-bec2-6045bd886c2f/overview)">Copilot Studio</a> •
+  <a href="https://copilotstudio.microsoft.com">Copilot Studio</a> •
   <a href="https://learn.microsoft.com/power-platform">Microsoft Power Platform</a>
 </p>
 
