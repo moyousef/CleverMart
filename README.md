@@ -289,7 +289,7 @@ Pita Bread Pack of 5 – HomeBaked"*
 
 </div>
 
-**🎤 Voice Integration (upcoming features)**
+**🎤 Voice Integration (upcoming features):**
 - 🗣️ **Speech Recognition**: Natural voice commands in multiple languages
 - 🔊 **Text-to-Speech**: Fahim responds with natural voice synthesis  
 - 📞 **Hands-free Operations**: Perfect for busy shop environments
