@@ -42,12 +42,10 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 ## 🎬 Interactive Demo Walkthrough
 
-> 💡 **Complete demo package available**: Download the full demo with all screenshots and materials from [`CleverMart-Demo.zip`](./Demo/demo.zip)
 
-<video width="500" controls>
-  <source src="videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="https://drive.google.com/file/d/17DT9WO5z4zP3m7UKTxBUTHKkwsbIJTTO/view?usp=sharing">
+  <img src="Screenshots/demo-thumbnail.png" alt="Click to watch demo" width="600"/>
+</a>
 
 <div align="center">
   
