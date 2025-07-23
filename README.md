@@ -44,7 +44,7 @@ Behind the scenes, Copilot Studio serves as the **virtual General Manager**, whi
 
 
 <a href="https://drive.google.com/file/d/17DT9WO5z4zP3m7UKTxBUTHKkwsbIJTTO/view?usp=sharing">
-  <img src="Screenshots/demo-thumbnail.png" alt="Click to watch demo" width="600"/>
+  <img src="Screenshots/video_thumbnail.png" alt="Click to watch demo" width="600"/>
 </a>
 
 <div align="center">
